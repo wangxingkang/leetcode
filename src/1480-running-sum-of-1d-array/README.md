@@ -4,7 +4,7 @@
 
 > leetcode [running-sum-of-1d-array](https://leetcode-cn.com/problems/running-sum-of-1d-array)
 
-## 题目描述(难度级别*)
+## 题目描述(难度级别🌟 )
 
 给你一个数组 nums 。数组「动态和」的计算公式为：runningSum[i] = sum(nums[0]…nums[i]) 。
 
