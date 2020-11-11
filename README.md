@@ -22,5 +22,6 @@
 
 
 ### 栈相关
-
+|编号|题目|难度|官方解决方案|TypeScript|
+|----|----|---|---------|----------|
 |20|有效的括号|🌟|-|[TypeScript](https://github.com/wangxingkang/leetcode/blob/main/src/20-valid-parentheses/index.ts)|
