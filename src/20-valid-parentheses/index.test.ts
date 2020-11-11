@@ -13,6 +13,7 @@ describe('isValid()', () => {
 
   it('右括号没有以正确顺序闭合。', () => {
     expect(isValid('())')).toEqual(false);
+    expect(isValid('))((')).toEqual(false);
   });
 
   it('正确的', () => {
